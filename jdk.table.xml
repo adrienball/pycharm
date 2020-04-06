@@ -1,0 +1,375 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="/usr/local/bin/python3.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-1199943126" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (sve-slu)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/dev/slu/sve-slu/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/dev/slu/sve-slu/venv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu/venv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/snips-asr/snips-asr-python" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-rs/platforms/python" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/993711899" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/slu/sve-slu" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (snips-nlu)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/dev/slu/snips-nlu/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/dev/slu/snips-nlu/venv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/snips-nlu/venv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/snips-nlu/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-1983789275" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/slu/snips-nlu" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (slu)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/dev/slu/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/dev/slu/venv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/venv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-657794343" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/slu" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (sve-slu-common)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/dev/slu/sve-slu-common/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-common/venv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-common/venv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-common/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-466193449" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/slu/sve-slu-common" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (sve-slu-training)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/dev/slu/sve-slu-training/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-training/venv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-training/venv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-training/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-rs/platforms/python" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/snips-asr/snips-asr-python" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/1391878406" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/slu/sve-slu-training" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (sve-slu-inference)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/dev/slu/sve-slu-inference/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-inference/venv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-inference/venv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-inference/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/snips-asr/snips-asr-python" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-rs/python" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/1199733799" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/slu/sve-slu-inference" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (snips-asr)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/dev/slu/snips-asr/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/dev/slu/snips-asr/venv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/snips-asr/venv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/snips-asr/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/snips-asr/snips-asr-python" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-2045090514" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/slu/snips-asr/asr-lm-adaptation" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (snips-nlp-lexicon)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/dev/snips-ds-speech-dictionaries/snips-nlp-lexicon/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/dev/snips-ds-speech-dictionaries/snips-nlp-lexicon/venv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/snips-ds-speech-dictionaries/snips-nlp-lexicon/venv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/snips-ds-speech-dictionaries/snips-nlp-lexicon/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-1768121364" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/snips-ds-speech-dictionaries/snips-nlp-lexicon" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (snips-nlu-metrics)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/dev/snips-nlu-metrics/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/dev/snips-nlu-metrics/venv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/snips-nlu-metrics/venv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/snips-nlu-metrics/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/983011118" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/snips-nlu-metrics" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (sve-slu-metrics)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/dev/slu/sve-slu-metrics/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-metrics/venv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-metrics/venv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-metrics/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/1241383185" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/slu/sve-slu-metrics" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (sve-slu-ffi)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/dev/slu/sve-slu-rs/platforms/python/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-rs/platforms/python/venv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-rs/platforms/python/venv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-rs/platforms/python/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-382482361" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/slu/sve-slu-rs/platforms/python" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (snips-nlu-ffi)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/dev/slu/snips-nlu-rs/platforms/python/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/dev/slu/snips-nlu-rs/platforms/python/venv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/snips-nlu-rs/platforms/python/venv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/snips-nlu-rs/platforms/python/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-1663283375" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/slu/snips-nlu-rs/platforms/python" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (slu-experiments)" />
+      <type value="Python SDK" />
+      <homePath value="$USER_HOME$/dev/slu/experiments/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/dev/slu/.experiments/venv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/.experiments/venv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/.experiments/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/snips-asr/snips-asr-python" type="simple" />
+            <root url="file://$USER_HOME$/dev/slu/sve-slu-rs/platforms/python" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-317600928" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/dev/slu/experiments" />
+    </jdk>
+  </component>
+</application>
