@@ -37,6 +37,9 @@
   <action id="IncrementWindowHeight" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="PylintCurrentFileAction">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="ShowNavBar">
@@ -65,8 +68,5 @@
   </action>
   <action id="Tool_External Tools_Black">
     <keyboard-shortcut first-keystroke="meta alt b" />
-  </action>
-  <action id="Tool_External Tools_pylint">
-    <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
 </keymap>
