@@ -2,4 +2,10 @@
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="88" />
   </codeStyleSettings>
+  <codeStyleSettings language="Shell Script">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>

@@ -5,6 +5,7 @@
       <mapping ext="gz" type="ARCHIVE" />
       <mapping pattern="musicArtist" type="JSON" />
       <mapping pattern="__version__" type="PLAIN_TEXT" />
+      <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="__default_nlu_version__" type="PLAIN_TEXT" />
       <mapping pattern="stats" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
@@ -17,6 +18,7 @@
       <mapping ext="lprof" type="PLAIN_TEXT" />
       <mapping ext="yolo" type="PLAIN_TEXT" />
       <mapping ext="crfsuite" type="PLAIN_TEXT" />
+      <mapping pattern="tp" type="Shell Script" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
