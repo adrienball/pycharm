@@ -5,12 +5,12 @@
       <mapping ext="gz" type="ARCHIVE" />
       <mapping pattern="musicArtist" type="JSON" />
       <mapping pattern="__version__" type="PLAIN_TEXT" />
-      <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="__default_nlu_version__" type="PLAIN_TEXT" />
       <mapping pattern="stats" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="__default_inference_version__" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern=".env-template" type="PLAIN_TEXT" />
       <mapping ext="python36" type="PLAIN_TEXT" />
       <mapping ext="nix" type="PLAIN_TEXT" />
