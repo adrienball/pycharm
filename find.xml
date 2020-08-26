@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,8 +20,8 @@
     <mask>*.rst</mask>
     <mask>*.txt</mask>
     <mask>*.in</mask>
-    <mask>*.rs</mask>
     <mask>*.</mask>
     <mask>*.py</mask>
+    <mask>*.rs</mask>
   </component>
 </application>
