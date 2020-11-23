@@ -12,6 +12,7 @@
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="__default_inference_version__" type="PLAIN_TEXT" />
       <mapping pattern=".env-template" type="PLAIN_TEXT" />
+      <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="python36" type="PLAIN_TEXT" />
       <mapping ext="nix" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
