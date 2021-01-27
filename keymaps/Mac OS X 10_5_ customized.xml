@@ -35,6 +35,8 @@
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="meta alt button1" />
   </action>
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion" />
   <action id="IncrementWindowHeight" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
