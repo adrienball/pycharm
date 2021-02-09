@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,7 +23,7 @@
     <mask>*.rs</mask>
     <mask>*config.json</mask>
     <mask>*config*.py</mask>
-    <mask>*.py</mask>
     <mask>*.yml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
