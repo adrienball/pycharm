@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rs" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,8 +24,8 @@
     <mask>*.toml</mask>
     <mask>*config.json</mask>
     <mask>*config*.py</mask>
-    <mask>*.yml</mask>
     <mask>*.py</mask>
     <mask>*.rs</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
