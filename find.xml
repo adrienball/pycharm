@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="test*.py" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,7 +14,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>.gitignore</mask>
-    <mask>test*.py</mask>
     <mask>*.rst</mask>
     <mask>*.txt</mask>
     <mask>*.</mask>
@@ -26,5 +25,6 @@
     <mask>setup.py</mask>
     <mask>*.in</mask>
     <mask>*.py</mask>
+    <mask>test*.py</mask>
   </component>
 </application>
