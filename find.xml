@@ -24,8 +24,8 @@
     <mask>setup.py</mask>
     <mask>*.in</mask>
     <mask>test*.py</mask>
-    <mask>*.rs</mask>
     <mask>run</mask>
+    <mask>*.rs</mask>
     <mask>*.py</mask>
   </component>
 </application>
