@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rs" />
+    <option name="FILE_MASK" value="*.toml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +17,6 @@
     <mask>*.rst</mask>
     <mask>*.txt</mask>
     <mask>*.</mask>
-    <mask>*.toml</mask>
     <mask>*config.json</mask>
     <mask>*config*.py</mask>
     <mask>*.yml</mask>
@@ -27,5 +26,6 @@
     <mask>run</mask>
     <mask>*.py</mask>
     <mask>*.rs</mask>
+    <mask>*.toml</mask>
   </component>
 </application>
