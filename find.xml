@@ -21,11 +21,11 @@
     <mask>*config*.py</mask>
     <mask>*.yml</mask>
     <mask>setup.py</mask>
-    <mask>*.in</mask>
     <mask>test*.py</mask>
     <mask>run</mask>
     <mask>*.toml</mask>
     <mask>*.rs</mask>
+    <mask>*.in</mask>
     <mask>*.py</mask>
   </component>
 </application>
