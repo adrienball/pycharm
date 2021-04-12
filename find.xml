@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="setup.py" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,12 +20,12 @@
     <mask>*config.json</mask>
     <mask>*config*.py</mask>
     <mask>*.yml</mask>
-    <mask>setup.py</mask>
     <mask>test*.py</mask>
     <mask>run</mask>
     <mask>*.toml</mask>
     <mask>*.rs</mask>
     <mask>*.in</mask>
     <mask>*.py</mask>
+    <mask>setup.py</mask>
   </component>
 </application>
