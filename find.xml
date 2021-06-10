@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,9 +25,9 @@
     <mask>run</mask>
     <mask>*.in</mask>
     <mask>setup.py</mask>
-    <mask>*.rs</mask>
     <mask>*.toml</mask>
     <mask>*.txt</mask>
     <mask>*.py</mask>
+    <mask>*.rs</mask>
   </component>
 </application>
