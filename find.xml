@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rs" />
+    <option name="FILE_MASK" value="*.txt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,8 +24,8 @@
     <mask>*.in</mask>
     <mask>setup.py</mask>
     <mask>*.toml</mask>
-    <mask>*.txt</mask>
     <mask>*.py</mask>
     <mask>*.rs</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
