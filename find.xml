@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.toml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -26,9 +27,9 @@
     <mask>run</mask>
     <mask>*.in</mask>
     <mask>setup.py</mask>
-    <mask>*.toml</mask>
     <mask>*.py</mask>
     <mask>*.rs</mask>
     <mask>*.txt</mask>
+    <mask>*.toml</mask>
   </component>
 </application>
