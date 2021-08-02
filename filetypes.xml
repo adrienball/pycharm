@@ -6,6 +6,7 @@
       <mapping pattern=".git-credentials" type="AUTO_DETECTED" />
       <mapping pattern="musicArtist" type="JSON" />
       <mapping pattern=".env-template" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="__default_inference_version__" type="PLAIN_TEXT" />
       <mapping pattern="__default_nlu_version__" type="PLAIN_TEXT" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
