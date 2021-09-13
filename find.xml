@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.rs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -27,7 +27,7 @@
     <mask>setup.py</mask>
     <mask>*.txt</mask>
     <mask>*.toml</mask>
-    <mask>*.rs</mask>
     <mask>*.py</mask>
+    <mask>*.rs</mask>
   </component>
 </application>
