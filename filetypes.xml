@@ -20,6 +20,7 @@
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="nix" type="PLAIN_TEXT" />
+      <mapping ext="gotmpl" type="PLAIN_TEXT" />
       <mapping ext="lprof" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="yolo" type="PLAIN_TEXT" />
