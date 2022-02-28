@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.in" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,11 +21,11 @@
     <mask>*.yml</mask>
     <mask>test*.py</mask>
     <mask>run</mask>
-    <mask>*.in</mask>
     <mask>setup.py</mask>
     <mask>*.txt</mask>
     <mask>*.toml</mask>
     <mask>*.rs</mask>
     <mask>*.py</mask>
+    <mask>*.in</mask>
   </component>
 </application>
