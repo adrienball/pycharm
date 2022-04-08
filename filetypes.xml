@@ -14,6 +14,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".artifactory-credentials" type="PLAIN_TEXT" />
       <mapping pattern="__default_inference_version__" type="PLAIN_TEXT" />
       <mapping ext="python36" type="PLAIN_TEXT" />
       <mapping ext="crfsuite" type="PLAIN_TEXT" />
