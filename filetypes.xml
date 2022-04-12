@@ -5,6 +5,7 @@
       <mapping ext="gz" type="ARCHIVE" />
       <mapping pattern="run" type="AUTO_DETECTED" />
       <mapping pattern=".git-credentials" type="AUTO_DETECTED" />
+      <mapping pattern="update_version" type="AUTO_DETECTED" />
       <mapping pattern="musicArtist" type="JSON" />
       <mapping pattern="__default_nlu_version__" type="PLAIN_TEXT" />
       <mapping pattern=".env-template" type="PLAIN_TEXT" />
