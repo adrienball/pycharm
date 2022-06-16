@@ -27,5 +27,6 @@
     <mask>setup.py</mask>
     <mask>.toml</mask>
     <mask>*.toml</mask>
+    <mask>*requirements.txt</mask>
   </component>
 </application>
