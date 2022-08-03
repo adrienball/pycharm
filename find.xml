@@ -22,13 +22,13 @@
     <mask>run</mask>
     <mask>*.txt</mask>
     <mask>*.rs</mask>
-    <mask>*.py</mask>
-    <mask>setup.py</mask>
     <mask>.toml</mask>
     <mask>*.toml</mask>
     <mask>*requirements.txt</mask>
     <mask>*Cargo.toml</mask>
     <mask>*setup.py</mask>
     <mask>*.in</mask>
+    <mask>*.py</mask>
+    <mask>setup.py</mask>
   </component>
 </application>
