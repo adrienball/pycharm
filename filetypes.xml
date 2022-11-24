@@ -27,7 +27,9 @@
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="yolo" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" type="PLAIN_TEXT" />
       <mapping pattern="tp" type="Shell Script" />
+      <mapping ext="txt" type="requirements.txt" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping pattern=".env" approved="true" type="Native" />
       <mapping pattern=".gitignore_global" type="Git file" />
