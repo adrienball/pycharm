@@ -9,7 +9,7 @@
   <tool name="Pylint" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/Library/Frameworks/Python.framework/Versions/3.7/bin/pylint" />
-      <option name="PARAMETERS" value="$FilePath$ --rcfile=/Users/adrien.ball/sonos/sve-services-slu/linting/pylintrc" />
+      <option name="PARAMETERS" value="$FilePath$ --rcfile=/Users/adrien.ball/sonos/sve-services-evaluation/linting/pylintrc" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
