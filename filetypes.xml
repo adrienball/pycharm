@@ -17,16 +17,16 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".artifactory-credentials" type="PLAIN_TEXT" />
       <mapping pattern="__default_inference_version__" type="PLAIN_TEXT" />
-      <mapping ext="python36" type="PLAIN_TEXT" />
-      <mapping ext="crfsuite" type="PLAIN_TEXT" />
-      <mapping ext="in" type="PLAIN_TEXT" />
-      <mapping ext="pkl" type="PLAIN_TEXT" />
-      <mapping ext="nix" type="PLAIN_TEXT" />
       <mapping ext="gotmpl" type="PLAIN_TEXT" />
+      <mapping ext="python36" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="nix" type="PLAIN_TEXT" />
+      <mapping ext="yolo" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="crfsuite" type="PLAIN_TEXT" />
+      <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="lprof" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="yolo" type="PLAIN_TEXT" />
       <mapping pattern="tp" type="Shell Script" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
