@@ -72,4 +72,7 @@
   <action id="Tool_External Tools_Pylint">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
+  <action id="Tool_External Tools_Ruff">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
 </keymap>
