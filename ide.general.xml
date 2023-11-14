@@ -13,6 +13,5 @@
     <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="ide.experimental.ui.inter.font" value="false" />
     <entry key="idea.plugins.compatible.build" value="" />
-    <entry key="python.debug.asyncio.repl" value="true" />
   </component>
 </application>
