@@ -21,7 +21,6 @@
     <mask>test*.py</mask>
     <mask>run</mask>
     <mask>*.txt</mask>
-    <mask>*.rs</mask>
     <mask>.toml</mask>
     <mask>*.toml</mask>
     <mask>*requirements.txt</mask>
@@ -30,5 +29,6 @@
     <mask>*.in</mask>
     <mask>setup.py</mask>
     <mask>*.py</mask>
+    <mask>*.rs</mask>
   </component>
 </application>
