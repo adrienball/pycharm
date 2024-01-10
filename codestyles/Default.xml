@@ -5,6 +5,8 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="88" />
+  <option name="SOFT_MARGINS" value="88" />
   <Python>
     <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
