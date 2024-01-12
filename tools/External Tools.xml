@@ -1,15 +1,15 @@
 <toolSet name="External Tools">
-  <tool name="Black" description="Black in PyCharm configuration" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Black" description="Black in PyCharm configuration" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/Library/Frameworks/Python.framework/Versions/3.9/bin/black" />
       <option name="PARAMETERS" value="$FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="Ruff" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="Ruff" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/Library/Frameworks/Python.framework/Versions/3.9/bin/ruff" />
-      <option name="PARAMETERS" value="$FilePath$ --config /Users/adrien.ball/sonos/sve-services-evaluation/ruff.toml" />
+      <option name="PARAMETERS" value="format $FilePath$ --config /Users/adrien.ball/sonos/sve-services-evaluation/ruff.toml" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
