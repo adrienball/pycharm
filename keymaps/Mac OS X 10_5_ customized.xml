@@ -40,6 +40,9 @@
   <action id="IncrementWindowHeight" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="ShowNavBar">
@@ -47,9 +50,6 @@
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift meta alt s" />
-  </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
