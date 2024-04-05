@@ -48,7 +48,7 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
-  <action id="SplitHorizontally">
+  <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta alt s" />
   </action>
   <action id="SwitchApply">
