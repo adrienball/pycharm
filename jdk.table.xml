@@ -1,17 +1,17 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 3.9 (sve-library-text-processing)" />
+      <name value="Python 3.9 (sve-services-evaluation)" />
       <type value="Python SDK" />
       <version value="Python 3.9.9" />
-      <homePath value="$USER_HOME$/sonos/sve-library-text-processing/.venv/bin/python" />
+      <homePath value="$USER_HOME$/sonos/sve-services-evaluation/evaluation-service/.venv/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
             <root url="file:///Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9" type="simple" />
             <root url="file:///Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/sonos/sve-library-text-processing/.venv/lib/python3.9/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharmCE2024.1/python_stubs/-917719269" type="simple" />
+            <root url="file://$USER_HOME$/sonos/sve-services-evaluation/evaluation-service/.venv/lib/python3.9/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharmCE2024.1/python_stubs/-556031786" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/gdb" type="simple" />
@@ -168,7 +168,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional SDK_UUID="6834b7a4-76d2-4bce-b50f-517a87c59583">
+      <additional SDK_UUID="57525465-c2c1-4d17-827b-73469e0d53e2">
         <setting name="FLAVOR_ID" value="MacPythonSdkFlavor" />
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
